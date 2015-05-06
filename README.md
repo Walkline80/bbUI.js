@@ -1,4 +1,4 @@
-![logo](https://raw.github.com/wiki/blackberry/bbUI.js/images/bbUI_100x403.png)
+![logo](https://raw.githubusercontent.com/Walkline80/bbUI.js/master/bbUI_100x403.png)
 
 ## BlackBerry 10 bbUI.js 使用说明
 
